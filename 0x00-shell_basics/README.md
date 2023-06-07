@@ -10,4 +10,4 @@ mv betty /tmp/my_first_directory - moves betty to /tmp/my_first_directory
 rm betty /tmp/my_first_directory - deletes betty from /tmp/my_first_directory
 rmdir /tmp/my_first_directory - deletes the my_first_director
 y
-cd .. - changes the current directory to the previous one
+cd - - changes the current directory to the previous one
