@@ -11,3 +11,5 @@ rm betty /tmp/my_first_directory - deletes betty from /tmp/my_first_directory
 rmdir /tmp/my_first_directory - deletes the my_first_director
 y
 cd - - changes the current directory to the previous one
+ls -la . .. /boot - list all files, hidden with a period character
+
